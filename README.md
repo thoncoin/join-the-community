@@ -9,23 +9,19 @@ The word Thon come from hack-a-thon
 ```
 
 # ORIGIN
+OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where ten developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States. Since then, a further three-to-five events per year have occurred around the world to advance development, generally on university campuses.
 
-    OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where ten developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States. Since then, a further three-to-five events per year have occurred around the world to advance development, generally on university campuses.
-
-```
 For Sun Microsystems(now Oracle), the usage referred to an event at the JavaOne conference from June 15 to June 19, 1999; there John Gage challenged attendees to write a program in Java for the new Palm V using the infrared port to communicate with other Palm users and register it on the Internet
-```
+
 
 # OUR MASTER PLAN
 
 # THE VISION (What do you want?):
-```
 Let's make hackathons the Future of Work, Community, Funding and rapidly build a worldwide digital platform that will support the hackathon community.  
-```
+
 
 # THE VALUES (What's important about it?):
-```
--established what was most important about that vision. It set the principles and beliefs that guided it (in priority):
+Established what was most important about that vision. It set the principles and beliefs that guided it (in priority):
 i.e:
 -impact
 -diversity
@@ -40,7 +36,7 @@ i.e:
 ```
 # THE METHODS (How do you get it?):
 ```
--illustrated how we would get the job done
+Illustrated how we would get the job done
 -by outlining the actions and the steps that everyone needed to take.
 i.e:
 1. Build the Thon Community
@@ -53,8 +49,8 @@ i.e:
 ```
 
 # OBSTACLES (What might stand in the way?):
+Identified the challenges, problems, and issues we would have to overcome to achieve our vision.
 ```
--identified the challenges, problems, and issues we would have to overcome to achieve our vision.
 i.e:
 1. The vision is lost
 2. The Community does not growt
@@ -64,8 +60,8 @@ i.e:
 6. No impactfull partnerships or influencers
 ```
 # MEASURES (How will you know when you have it?):
+Specified the actual result we aimed to achieve; often this was defined as a numerical outcome.
 ```
--specified the actual result we aimed to achieve; often this was defined as a numerical outcome.
 i.e:
 -Prototype is state-of-the-art
 -High-quality functional sysyem
