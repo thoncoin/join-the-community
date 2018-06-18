@@ -1,15 +1,20 @@
 This is a community of people who advocate that Hackathons be the building block of education, work and funding.
 
 # DEFINITION
+```
 The word "hackathon" is a portmanteau of the words "hack" and "marathon". 
 The term hack refers to any work-around solution.
 The word marathon refers to a long-distance race, completed by running, walking , or a run/walk strategy.
 The word Thon come from hack-a-thon
+```
 
 # ORIGIN
+```
 OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where ten developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States. Since then, a further three-to-five events per year have occurred around the world to advance development, generally on university campuses.
-
+```
+```
 For Sun Microsystems(now Oracle), the usage referred to an event at the JavaOne conference from June 15 to June 19, 1999; there John Gage challenged attendees to write a program in Java for the new Palm V using the infrared port to communicate with other Palm users and register it on the Internet
+```
 
 # OUR MASTER PLAN
 
@@ -17,7 +22,9 @@ For Sun Microsystems(now Oracle), the usage referred to an event at the JavaOne 
 Let's make hackathons the Future of Work, Community, Funding and rapidly build a worldwide digital platform that will support the hackathon community.  
 
 # THE VALUES (What's important about it?):
-Established what was most important about that vision. It set the principles and beliefs that guided it (in priority).
+
+Established what was most important about that vision. It set the principles and beliefs that guided it (in priority):
+```
 -impact
 -diversity
 -enabler
@@ -28,8 +35,9 @@ Established what was most important about that vision. It set the principles and
 -marketing
 -positive 
 -inclusive
-
+```
 # THE METHODS (How do you get it?):
+```
 -illustrated how we would get the job done
 -by outlining the actions and the steps that everyone needed to take.
 i.e:
@@ -40,9 +48,11 @@ i.e:
 5. Rapidly develop the product specification to beta and production stages
 6. Build partnerships with schools, professors, the media, tech companies, non profit organizations
 7. Build a launch plan
+```
 
 # OBSTACLES (What might stand in the way?):
 -identified the challenges, problems, and issues we would have to overcome to achieve our vision.
+```
 i.e:
 1. The vision is lost
 2. The Community does not growt
@@ -50,8 +60,9 @@ i.e:
 4. Product managers/business development person are not interested to join
 5. No funding to scale
 6. No impactfull partnerships or influencers
-
+```
 # MEASURES (How will you know when you have it?):
+```
 -specified the actual result we aimed to achieve; often this was defined as a numerical outcome.
 i.e:
 -Prototype is state-of-the-art
@@ -63,10 +74,10 @@ i.e:
 -More hackathons are organized in Africa
 -School have integrated hackathon as part of their curriculum
 -More school are sending their students to participate to hackathons and incentivizing schools for their attendance
-
+```
 # COMMUNITY GOVERNANCE MODEL 
 # built follwoing tiny hackathon model :-) 
-
+```
 -Team are randomly selected
 -30 mn to 1h collaborative and positive contest
 i.e:
@@ -84,3 +95,4 @@ i.e:
 -Best team to pitch the mission statement
 -Best team to pitch a code of conduct : diversity, friendly, inclusive  etc
 -Etc ....
+```
