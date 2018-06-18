@@ -76,6 +76,14 @@ i.e:
 -More hackathons are organized in Africa
 -School have integrated hackathon as part of their curriculum
 -More school are sending their students to participate to hackathons and incentivizing schools for their attendance
+-More people are replacing their conference model with hackathon model.
+-Town hall meetings adopt the hackathon model
+-Hackathon can be organizers with eaze
+-More people use hackathons as ther main funding platforms
+-More people use hackathonsto get educated
+-More people use the hackathon platform to send money abroad to support projects
+-Hackathon becomes a proof of work
+-A Hackathon protocol is created
 ```
 # COMMUNITY GOVERNANCE MODEL 
 # built follwoing tiny hackathon model :-) 
