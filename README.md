@@ -61,7 +61,7 @@ i.e:
 6. No impactfull partnerships or influencers
 ```
 
-# EASURES (How will you know when you have it?):
+# MEASURES (How will you know when you have it?):
 Specified the actual result we aimed to achieve; often this was defined as a numerical outcome.
 ```
 i.e:
