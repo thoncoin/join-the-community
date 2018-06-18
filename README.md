@@ -1,12 +1,14 @@
 # This is a community of people who advocate that Hackathons be the building block of education, work, funding and sustainable communites.
 
 # DEFINITION
-```
-The word "hackathon" is a portmanteau of the words "hack" and "marathon". 
+
+The word "hackathon" is a portmanteau of the words "hack" and "marathon".
+
 The term hack refers to any work-around solution.
+
 The word marathon refers to a long-distance race, completed by running, walking , or a run/walk strategy.
+
 The word Thon come from hack-a-thon
-```
 
 # ORIGIN
 OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where ten developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States. Since then, a further three-to-five events per year have occurred around the world to advance development, generally on university campuses.
