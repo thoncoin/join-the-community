@@ -22,6 +22,7 @@ Let's make hackathons the Future of Work, Community, Funding and rapidly build a
 
 # THE VALUES (What's important about it?):
 Established what was most important about that vision. It set the principles and beliefs that guided it (in priority):
+```
 i.e:
 -impact
 -diversity
@@ -59,7 +60,8 @@ i.e:
 5. No funding to scale
 6. No impactfull partnerships or influencers
 ```
-# MEASURES (How will you know when you have it?):
+
+# EASURES (How will you know when you have it?):
 Specified the actual result we aimed to achieve; often this was defined as a numerical outcome.
 ```
 i.e:
