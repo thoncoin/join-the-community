@@ -1,4 +1,4 @@
-# This is a community of people who advocate that Hackathons be the building block of education, work and funding.
+# This is a community of people who advocate that Hackathons be the building block of education, work, funding and sustainable communites.
 
 # DEFINITION
 ```
