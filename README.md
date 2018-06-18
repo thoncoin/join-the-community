@@ -1,4 +1,4 @@
-This is a community of people who advocate that Hackathons be the building block of education, work and funding.
+# This is a community of people who advocate that Hackathons be the building block of education, work and funding.
 
 # DEFINITION
 ```
@@ -19,12 +19,14 @@ For Sun Microsystems(now Oracle), the usage referred to an event at the JavaOne 
 # OUR MASTER PLAN
 
 # THE VISION (What do you want?):
+```
 Let's make hackathons the Future of Work, Community, Funding and rapidly build a worldwide digital platform that will support the hackathon community.  
+```
 
 # THE VALUES (What's important about it?):
-
-Established what was most important about that vision. It set the principles and beliefs that guided it (in priority):
 ```
+-established what was most important about that vision. It set the principles and beliefs that guided it (in priority):
+i.e:
 -impact
 -diversity
 -enabler
@@ -51,8 +53,8 @@ i.e:
 ```
 
 # OBSTACLES (What might stand in the way?):
--identified the challenges, problems, and issues we would have to overcome to achieve our vision.
 ```
+-identified the challenges, problems, and issues we would have to overcome to achieve our vision.
 i.e:
 1. The vision is lost
 2. The Community does not growt
@@ -78,7 +80,7 @@ i.e:
 # COMMUNITY GOVERNANCE MODEL 
 # built follwoing tiny hackathon model :-) 
 ```
--Team are randomly selected
+-commuity members will be randomly mixed
 -30 mn to 1h collaborative and positive contest
 i.e:
 -Best team to propose incentive to participate to this kind of governance 
