@@ -105,6 +105,8 @@ i.e:
 -Best team to pitch the mission statement
 -Best team to pitch a code of conduct : diversity, friendly, inclusive  etc
 -Best team to detects risks and mitigation
-_best team to find the total amount of conferences, seminars, forums organized 
+-Best team to find the total amount of conferences, seminars, forums organized 
+-Best team to keep contributors motivated knowing that everybody have a full time job.
+-Best team to identify the valuation of this project
 -Etc ....
 ```
