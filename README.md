@@ -64,7 +64,7 @@ i.e:
 -School have integrated hackathon as part of their curriculum
 -More school are sending their students to participate to hackathons and incentivizing schools for their attendance
 
-# COMMUNITY GOVERNABCE MODEL 
+# COMMUNITY GOVERNANCE MODEL 
 # built follwoing tiny hackathon model :-) 
 
 -Team are randomly selected
