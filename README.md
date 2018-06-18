@@ -84,7 +84,7 @@ i.e:
 -A Hackathon protocol is created
 ```
 # COMMUNITY GOVERNANCE MODEL 
-# built follwoing tiny hackathon model :-) 
+# built follwoing the tiny hackathon model :-) 
 ```
 -commuity members will be randomly mixed
 -30 mn to 1h collaborative and positive contest
