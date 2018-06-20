@@ -19,6 +19,8 @@ For Sun Microsystems(now Oracle), the usage referred to an event at the JavaOne 
 # Infographic: Worldwide Hackathon Figures in 2016
 
 link http://www.bemyapp.com/insights/infographics-hackathon-figures-in-2016.html
+also read link http://thehealthcareblog.com/blog/2014/10/03/back-to-the-future-of-medicine-3-reasons-why-healthcare-needs-hackathons/
+
 
 # OUR MASTER PLAN
 
