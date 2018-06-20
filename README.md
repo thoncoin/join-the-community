@@ -115,5 +115,6 @@ i.e:
 -Best team to Use Letter of Intent to get customer validation
 -Best team to administrate Risk Management Document
 -Best team to suggest cool features
+-Best team to manage and populate social media: write about impact hackathon content locally and around the world. Write about how the education system is not enought, how funding is needed to support ideas, how you can get jobs at hackathon...basically all write about all the benfits of hackathons 
 -Etc ....
 ```
