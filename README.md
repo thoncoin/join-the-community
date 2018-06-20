@@ -112,5 +112,8 @@ i.e:
 -Best team to find the total amount of conferences, seminars, forums organized 
 -Best team to keep contributors motivated knowing that everybody have a full time job.
 -Best team to identify the valuation of this project
+-Best team to Use Letter of Intent to get customer validation
+-Best team to administrate Risk Management Document
+-Best team to suggest cool features
 -Etc ....
 ```
