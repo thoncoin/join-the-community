@@ -62,7 +62,7 @@ Identified the challenges, problems, and issues we would have to overcome to ach
 ```
 i.e:
 1. The vision is lost
-2. The Community does not growth
+2. The Community does not grow
 3. Developers are not interested to join
 4. Product managers/business development person are not interested to join
 5. No funding to scale
