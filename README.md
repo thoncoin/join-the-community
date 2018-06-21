@@ -92,7 +92,7 @@ i.e:
 -A Hackathon protocol is created
 ```
 # COMMUNITY GOVERNANCE MODEL 
-# built follwoing the tiny hackathon model :-) 
+# built follwoing the hackathon model :-) 
 ```
 i.e:
 -commuity members will be randomly mixed
