@@ -124,15 +124,17 @@ i.e:
 ```
 # What's your next step?
 # Step 1
-Send us your non-binding letter of interest if you like this project. 
-Download here https://github.com/thoncoin/join-the-community/blob/master/letter-of-intent
-
+```
+- Send us your non-binding letter of interest if you like this project. 
+- Download here https://github.com/thoncoin/join-the-community/blob/master/letter-of-intent
+```
 # Step 2
-Join our meetup community https://www.meetup.com/San-Francisco-hackathons-Meetup/events/lpncwpyxjbcc/
-Join our facebook community https://www.facebook.com/Thoncoin-460679334399066
-Join our telegram community https://t.me/thoncoin
-Join our slack community https://join.slack.com/t/thoncoin/shared_invite/enQtMzc5NTMzMzM3NTcwLWNhNjk3YmQxZWU4YzA5MDg0NGRkNjBkOGNhYjIxZDI3NGM4YTU5NjdhMTg0MDE1MGYwM2Y0YTJhZmUwMDk3YjE
-
+```
+- Join our meetup community https://www.meetup.com/San-Francisco-hackathons-Meetup/events/lpncwpyxjbcc/
+- Join our facebook community https://www.facebook.com/Thoncoin-460679334399066
+- Join our telegram community https://t.me/thoncoin
+- Join our slack community https://join.slack.com/t/thoncoin/shared_invite/enQtMzc5NTMzMzM3NTcwLWNhNjk3YmQxZWU4YzA5MDg0NGRkNjBkOGNhYjIxZDI3NGM4YTU5NjdhMTg0MDE1MGYwM2Y0YTJhZmUwMDk3YjE
+```
 # Step 3
 Join our Thursdays hackathon: https://www.eventbrite.com/e/thursdays-hackathon-the-future-of-education-funding-impact-on-thoncoinio-tickets-47306171031
 
